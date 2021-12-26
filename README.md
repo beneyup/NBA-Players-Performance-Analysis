@@ -10,3 +10,14 @@ by;
 
 ![](/images/Player%20Style%20Patterns.png)
 
+---
+# [Project 2: Gross Profit Analysis of Movies](https://github.com/beneyup/Python-Portfolio-Projects/tree/master-branch1)
+
+In this project, we will analyse the specific genre types and the publisher studios that we picked from the data set by;
+* Reading the CSV file
+* Changing the columns' types of variables if needed
+* Filtering the data
+* Creating a boxplot by using the seaborn library
+
+
+![](/images/Boxplot1.png)
