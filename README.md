@@ -8,7 +8,7 @@ by;
 * Using the matplotlib library and our own created function to generate the final plot to help us analyze the data.  
 
 
-![](/images/Player%20Style%20Patterns%20(1).png)
+![](https://github.com/beneyup/Python-Portfolio-Projects/blob/main/images/graph2%20(1).png)
 
 ---
 # [Project 2: Gross Profit Analysis of Movies](https://github.com/beneyup/Python-Portfolio-Projects/tree/master-branch1)
