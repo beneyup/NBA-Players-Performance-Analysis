@@ -55,8 +55,4 @@ warnings.filterwarnings('ignore')
 plt.rcParams['figure.figsize'] =9,6
 
 ```
----
-![](/images/FieldGoals%20%26%20FreeThrowAccuracy.png)
-![](/images/Player%20Style%20Patterns.png)
-![](/images/Points%20%26%20FreeThrowAccuracy.png)
 
