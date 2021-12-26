@@ -2,25 +2,22 @@
 
 In this project, we're going to analyze how NBA players performed over years
 by;
-* Creating season and player dictionaries to cast our analysis through the years and the players
+* Creating season and player dictionaries to cast our analysis through the years and the players.
 * Using NumPy package to create arrays and matrixes.
-* Performing mathematical operations on array elements
-* Using the matplotlib library and our own created function to generate the final plot to help us analyze the data   
+* Performing mathematical operations on array elements.
+* Using the matplotlib library and our own created function to generate the final plot to help us analyze the data.  
 
 
 ![](/images/Player%20Style%20Patterns%20(1).png)
-![](/images/Points%20%26%20FreeThrowAccuracy%20(1).png)
-![](/images/FieldGoals%20%26%20FreeThrowAccuracy%20(1).png)
-
 
 ---
 # [Project 2: Gross Profit Analysis of Movies](https://github.com/beneyup/Python-Portfolio-Projects/tree/master-branch1)
 
 In this project, we will analyse the specific genre types and the publisher studios that we picked from the data set by;
-* Reading the CSV file
-* Changing the columns' types of variables if needed
-* Filtering the data
-* Creating a boxplot by using the seaborn library
+* Reading the CSV file.
+* Changing the columns' types of variables if needed.
+* Filtering the data.
+* Creating a boxplot by using the seaborn library.
 
 
 ![](/images/Boxplot1.png)
