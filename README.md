@@ -7,6 +7,6 @@ by;
 * Performing mathematical operations on array elements
 * Using the matplotlib library and our own created function to generate the final plot to help us analyze the data   
 
-![](https://github.com/beneyup/Python-Portfolio-Projects/blob/main/images/FieldGoals%20%26%20FreeThrowAccuracy.png)
-![](https://github.com/beneyup/Python-Portfolio-Projects/blob/main/images/Points%20%26%20FreeThrowAccuracy.png)
-![](https://github.com/beneyup/Python-Portfolio-Projects/blob/main/images/Player%20Style%20Patterns.png)
+![](/images/FieldGoals%20%26%20FreeThrowAccuracy.png)
+![](/images/Points%20%26%20FreeThrowAccuracy.png)
+![](/images/Player%20Style%20Patterns.png)
