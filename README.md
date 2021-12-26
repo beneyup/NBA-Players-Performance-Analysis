@@ -9,6 +9,9 @@ by;
 
 
 ![](/images/Player%20Style%20Patterns%20(1).png)
+![](/images/Points%20%26%20FreeThrowAccuracy%20(1).png)
+![](/images/FieldGoals%20%26%20FreeThrowAccuracy%20(1).png)
+
 
 ---
 # [Project 2: Gross Profit Analysis of Movies](https://github.com/beneyup/Python-Portfolio-Projects/tree/master-branch1)
